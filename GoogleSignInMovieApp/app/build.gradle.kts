@@ -43,11 +43,11 @@ dependencies {
     implementation("com.google.android.material:material:1.12.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
-    implementation("com.google.firebase:firebase-auth:23.0.0")
+   implementation("com.google.firebase:firebase-auth:23.0.0")
 
     //google dependencies
     implementation("com.google.firebase:firebase-bom:31.5.0")
-    implementation("com.google.firebase:firebase-auth-ktx")
+    //implementation("com.google.firebase:firebase-auth-ktx")
     implementation("com.google.android.gms:play-services-auth:20.5.0")
 
 
