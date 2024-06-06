@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Google-SignIn-MovieApp</string>
+    <string name="loading">Loading..</string>
+    <string name="logout">LOGOUT</string>
+    <string name="sign_up_with_google">Sign up with Google</string>
+    <string name="todo">TODO</string>
 </resources>
